@@ -2,7 +2,7 @@
 
 <html lang="en">
 <head>
-    <h1 align="center">Nga'ay ho kamo! Ini ko Mirusa. </h1>
+    <h1 align="center">Nga'aiho Kita! Ini ko Mirusa...</h1>
 </head>
   
 <body>
@@ -55,7 +55,7 @@
     </div>
     <p></p>
     <p><b>Actually I'm more active on Discord, so if you have any ideas or sth., please don't be hesitate and contact me. :D</b></p>
-<div align="center"><h2>Thank you for visiting my profile!</h2>
+<div align="center"><h2>Thanks for Visiting!</h2>
     <img src="https://media.tenor.com/RGm8YswOKdcAAAAd/mushoku-tensei-anime.gif" width=75%></div>
 </div>
 
