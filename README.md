@@ -9,36 +9,30 @@
 
 <body>
     <div>
-        <h1>Lokah su' ga, I'm Mirusa...</h1>
+        <h1>Lokah su' ga, I'm Mirusa... ʕ•ᴥ•ʔ</h1>
         <div align="center">
             <img src="https://media.tenor.com/RGm8YswOKdcAAAAd/mushoku-tensei-anime.gif" width= "auto">
         </div>
-        
-        <h3>About Me</h3>
-        <p>I'm a student who is currently studying at Computer Science.</p>
-        
-        <h3>My Hobbies</h3>
+        <h3>* About Me ✩‧₊˚</h3>
+        <p>I'm a student who is studying at Computer Science and currently learning many knowledegs...</p>
+        <p>Also having a smol group called "Entendemos" aimming to do lots of projects with <a href="https://github.com/Boemio">@Boemio</a> XD</p>
         <div>
-            <li>Language: Mandarin(Native), Taigi(Native), Hakka(Native), English(B2), Amis(B1), Atayal(A2), Portuguese(A2)</li>
-            <li>Programs: C/C++, Python, HTML, CSS, JS</li>
+            <li><b>Hobbies:</b> Travelling, Reading, Linguistics, Programming...</li>
+            <li><b>Languages:</b> Mandarin(Native), Taigi(Native), Hakka(Native), English(B2), Amis(B1), Atayal(A2), Portuguese(A2)</li>
+            <li><b>Program Languages:</b> C/C++, Python, HTML, CSS, Javascript, Assembly...</li>
         </div>
-        
-        <h3>Contact Me</h3>
+        <h3>* Contact Me ✩‧₊˚</h3>
+        <p>If you have any thoughts wanting to share with me, don't hesitate and contact me rn.</p>
         <div>
             <li>Twitter: <a href="https://twitter.com/mirusausiliq">@mirusausiliq</a></li>
             <li>Discord: mirusausiliq#6635</li>
             <li>Gmail: mirusausiliq@gmail.com</li>
         </div>
-        
+        <h3>✧*｡ ʕ•ᴥ•ʔ Thanks For Visiting! ✧*｡</h3>
     </div>
 </body>
 
 </html>
-
-<!--
-     <img src="https://media.tenor.com/pMkPqfRimeYAAAAd/shock-roxy-shock.gif" width="20%" align="left">
-<img src="https://media.tenor.com/RGm8YswOKdcAAAAd/mushoku-tensei-anime.gif" width=75%></div>
-    -->
 
 <!---
 mirusausiliq/mirusausiliq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
