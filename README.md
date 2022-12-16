@@ -1,3 +1,48 @@
+# Lokah su' ga, Mirusa is here... ʕ•ᴥ•ʔ
+
+<div align="center">
+    <img src="https://media.tenor.com/RGm8YswOKdcAAAAd/mushoku-tensei-anime.gif">
+</div>
+
+### * About Me ✩‧₊˚
+
+I am a student who is major in **Computer Science** and **Linguistics**. <br>
+Also I have a small organization called **Entendemos** planning to achieve lots of ideas and dreams with my partner [@Boemio](https://github.com/Boemio)...<br>
+
+- **Hobbies**: Coding, Reading, Travelling...
+- **Languages**: Mandarin(Native), Taigi(Native), Hakka(Native), English(B2), Amis(B1), Atayal(A2), Portuguese(A2), Japanese(A1)...
+- **Programming Languages**: C/C++, Python, HTML, CSS, Javascript, Assembly...
+- **Skills**: Node.js, Vue.js...
+
+### * Contact Me ✩‧₊˚
+
+If you have any questions or ideas, please contact me right away! <br>
+Here are some social medias that I normally use:
+
+- **Twitter**: [@mirusausiliq](https://twitter.com/mirusausiliq)
+- **Discord**: mirusausiliq#6635
+- **Gmail**: mirusausiliq@gmail.com
+
+### * Plans of 2023 ✩‧₊˚
+
+*Innovating brings Progressing...*
+
+- [ ] Making New Blog...
+- [ ] Making Compiler...
+- [ ] Making Discord Bot...
+- [ ] Learning Drawing...
+- [ ] Learning New Languages...
+- [ ] Learning New Programming Languages and Skills...
+- [ ] Inventing Siliq(Auxlang & Programming Language)...
+- [ ] Renewing My Daily Routine...
+
+### ✧*｡ ʕ•ᴥ•ʔ Thanks For Visiting! ✧*｡
+
+
+<!---
+mirusausiliq/mirusausiliq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
 <!DOCTYPE html>
 
 <head>
@@ -34,7 +79,4 @@
 
 </html>
 
-<!---
-mirusausiliq/mirusausiliq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
