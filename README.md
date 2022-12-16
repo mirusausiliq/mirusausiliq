@@ -19,7 +19,7 @@
         <div>
             <li><b>Hobbies:</b> Travelling, Reading, Linguistics, Programming...</li>
             <li><b>Languages:</b> Mandarin(Native), Taigi(Native), Hakka(Native), English(B2), Amis(B1), Atayal(A2), Portuguese(A2)</li>
-            <li><b>Program Languages:</b> C/C++, Python, HTML, CSS, Javascript, Assembly...</li>
+            <li><b>Coding Languages:</b> C/C++, Python, HTML, CSS, Javascript, Assembly...</li>
         </div>
         <h3>* Contact Me ✩‧₊˚</h3>
         <p>If you have any thoughts wanting to share with me, don't hesitate and contact me rn.</p>
