@@ -6,7 +6,7 @@
 
 ### * About Me ✩‧₊˚
 
-I am a student who is major in **Computer Science** and **Linguistics**. <br>
+I am a student who is currently major in **Linguistics** and trying to learn **Computer Science** by myself. <br>
 Also I have a small organization called **Entendemos** planning to achieve lots of ideas and dreams with my partner [@Boemio](https://github.com/Boemio)...<br>
 
 - **Hobbies**: Coding, Reading, Travelling...
