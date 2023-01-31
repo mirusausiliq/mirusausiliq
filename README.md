@@ -8,7 +8,7 @@
 
 Hello everyone!
 I'm a student who is currently major in **Social Science** and **Linguistics** and interesting in **Computer Science**... <br>
-Learning new knowledges, discovering new things, creating new works are what i like. <br>
+Learning new knowledges, discovering new things, creating new works are what I like. <br>
 Presently, I have a project called **Entendemos** which is aiming to develop learning resources in various languages... especially **Formosan Languages**(Amis, Atayal, ...etc) <br>
 
 - **Hobbies**: Coding, Reading, Travelling...
