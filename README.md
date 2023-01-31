@@ -6,17 +6,19 @@
 
 ### * About Me ✩‧₊˚
 
-I am a student who is currently major in **Linguistics** and trying to learn **Computer Science** by myself. <br>
-Also I have a small organization called **Entendemos** planning to achieve lots of ideas and dreams with my partner [@Boemio](https://github.com/Boemio)...<br>
+Hello everyone!
+I'm a student who is currently major in **Social Science** and **Linguistics** and interesting in **Computer Science**... <br>
+Learning new knowledges, discovering new things, creating new works are what i like. <br>
+Presently, I have a project called **Entendemos** which is aiming to develop learning resources in various languages... especially **Formosan Languages**(Amis, Atayal, ...etc) <br>
 
 - **Hobbies**: Coding, Reading, Travelling...
-- **Languages**: Mandarin(Native), Taigi(Native), Hakka(Native), English(B2), Amis(B1), Atayal(A2), Portuguese(A2), Japanese(A1)...
-- **Learning**: C/C++, C#, Python, HTML, CSS, Javascript, Swift, Assembly...
-- **Skills**: IDK I'm useless QAQ...
+- **Languages**: Mandarin(NA), Taigi(NA), Hakka(NA), English(B2), Amis(B1), Atayal(A2), Portuguese(A2), Japanese(A1)...
+- **Learning**: C/C++, C#, Rust, HTML/CSS, Javascript, Python, Swift, Assembly...
+- **Skills**: IDK I'm so useless QAQ...
 
 ### * Contact Me ✩‧₊˚
 
-If you have any questions or ideas, please contact me right away! <br>
+If you have any question, please contact me right away! <br>
 Here are some social medias that I normally use:
 
 - **Twitter**: [@mirusausiliq](https://twitter.com/mirusausiliq)
