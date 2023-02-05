@@ -23,7 +23,7 @@ Here are some social medias that I normally use:
 
 - **Gmail**: mirusausiliq@gmail.com
 - **Discord**: mirusausiliq#6635
-- **Github**: [mirusausiliq](https://github.com/mirusausiliq/
+- **Github**: [mirusausiliq](https://github.com/mirusausiliq/)
 - **Twitter**: [@mirusausiliq](https://twitter.com/mirusausiliq)
 - **Website**: [https://mirusausiliq.com/](https://mirusausiliq.com/)
 
