@@ -7,9 +7,9 @@
 ### * About Me ✩‧₊˚
 
 Hello everyone!
-I'm a student who is currently major in **Social Science** and **Linguistics** and interesting in **Computer Science**... <br>
-Learning new knowledges, discovering new things, creating new works are what I like. <br>
-Presently, I have a project called **Entendemos** which is aiming to develop learning resources in various languages... especially **Formosan Languages**(Amis, Atayal, ...etc) <br>
+ My name is Mirusa, a student who is currently major in Social Science and Linguistics and interesting in Computer Science...<br>
+ Learning new knowledges, discovering new things, creating new works are what I like.<br>
+ As for now, I have a project called Entendemos which is aiming to develop learning resources in various languages... especially Formosan Languages(Amis, Atayal, ...etc)<br>
 
 - **Hobbies**: Coding, Reading, Travelling...
 - **Languages**: Mandarin(NA), Taigi(NA), Hakka(NA), English(B2), Amis(B1), Atayal(A2), Portuguese(A2), Japanese(A1)...
@@ -21,9 +21,11 @@ Presently, I have a project called **Entendemos** which is aiming to develop lea
 If you have any question, please contact me right away! <br>
 Here are some social medias that I normally use:
 
-- **Twitter**: [@mirusausiliq](https://twitter.com/mirusausiliq)
-- **Discord**: mirusausiliq#6635
 - **Gmail**: mirusausiliq@gmail.com
+- **Discord**: mirusausiliq#6635
+- **Github**: [mirusausiliq](https://github.com/mirusausiliq/
+- **Twitter**: [@mirusausiliq](https://twitter.com/mirusausiliq)
+- **Website**: [https://mirusausiliq.com/](https://mirusausiliq.com/)
 
 ### * Plans of 2023 ✩‧₊˚
 
