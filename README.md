@@ -1,4 +1,4 @@
-# Nengi isu! Mirusa is here... ʕ•ᴥ•ʔ
+# Na Tarivak Sun! Mirusa is here... ʕ•ᴥ•ʔ
 
 <div align="center">
     <img src="https://media.tenor.com/RGm8YswOKdcAAAAd/mushoku-tensei-anime.gif">
