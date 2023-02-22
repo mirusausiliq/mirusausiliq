@@ -6,25 +6,51 @@
 
 ### * About Me ✩‧₊˚
 
-Hello everyone!
-My name is Mirusa, having strong interest in CS field, currently major in Social Science and Linguistics.<br>
-Normally, I like to do things like reading, programming, and gaming...<br>
-Also, I have a team called "Entendemos", which is aiming to achieve lots of interesting ideas...<br>
+Lokah su' ga! Ti Mirusa a ku ngadan. I'm a undergraduate currently studying in linguistics(NPL) and having strong interests in CSIE field. <br>
+I like to study, travel, create, and discover new things... whatever... <br>
+Also, I have a small organization called "Entendemos" aiming to revitalize the endangered cultures and languages, especialy including various Formosan Languages. <br>
+Recently, I'm working on the project which is trying to collect the learning resources of Formosan Languages, then reproduce them via some new technologies, finally translate in foreign languages, which maybe help those who don't know Chinese learning our beautiful Formosans. <br>
+We're looking forward for your participation to revitalize Formosan Languages with us! <br>
 
-- **Hobbies**: Coding, Reading, Travelling...
-- **Languages**: Mandarin(Na), Taigi(Na), Hakka(Na), English(B2), Portuguese(A2), Japanese(A1), Amis(Pangcah)(A2), Atayal(A1), Tsou(A1)...
-- **Learning**:
+### * Languages ✩‧₊˚
+
+- 🇹🇼 Taiwanese Mandarin (Native)
+- 🍍 Taigi (Native)
+- 🌺 Hakka (Native)
+- 🇬🇧 English (B1~B2)(Learning)
+- 🇯🇵 Japanese (A1)
+- 🇧🇷 Portuguese (A1)
+- 🌾 Amis(Pangcah) (A1)(Learning)
+- 🦅 Atayal (A2)(Certificated)
+- 🐗 Paiwan (A1)(Learning)
+- 🔥 Sakizaya (A1)(Learning)
+
+### * Programming Skills ✩‧₊˚
+
+- C/C++ (Learning)
+- C# (Learning)
+- Swift (Learning)
+- HTML/CSS (Learning)
+- JS/TS (Learning)
+- Node.js, Vue.js, Nuxt.js (Web Framework)
+- Python
+- R
+- Siliq (Under Developing)
+- Vim (Learning)
+- Git (Learning)
 
 ### * Contact Me ✩‧₊˚
 
-If you have any question, please contact me right away! <br>
-Here are some social medias that I normally use:
+If you have any question or suggestion, please contact me right away! <br>
+I'm willing to answer you as soon as possible. <br>
+Below are my contacts: <br>
 
 - **Gmail**: mirusausiliq@gmail.com
 - **Discord**: mirusausiliq#6635
 - **Github**: [mirusausiliq](https://github.com/mirusausiliq/)
 - **Twitter**: [@mirusausiliq](https://twitter.com/mirusausiliq)
-- **Website**: [https://mirusausiliq.com/](https://mirusausiliq.com/)
+- **Personal Blog**: [https://mirusausiliq.com/](https://mirusausiliq.com/)
+- **Entendemos Blog**: [https://entendemos.github.io/](https://entendemos.github.io)
 
 ### * Plans of 2023 ✩‧₊˚
 
