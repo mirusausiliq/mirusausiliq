@@ -25,19 +25,29 @@ We're looking forward for your participation to revitalize Formosan Languages wi
 - 🐗 Paiwan (A1)(Learning)
 - 🔥 Sakizaya (A1)(Learning)
 
-### * Programming Skills ✩‧₊˚
+### * Programming Knowledges ✩‧₊˚
 
 - C/C++ (Learning)
 - C# (Learning)
 - Swift (Learning)
 - HTML/CSS (Learning)
 - JS/TS (Learning)
-- Node.js, Vue.js, Nuxt.js (Web Framework)
+- Node.js, Vue.js, Nuxt.js 3 (Web Framework)
 - Python
 - R
 - Siliq (Under Developing)
 - Vim (Learning)
 - Git (Learning)
+- NPL (AI)(Machine Learning)
+- Management
+- Calculus 
+- Discrete Mathematics 
+- Digital Logics
+
+### * Linguistic Knowledges ✩‧₊˚
+
+- Formosan Languages (Specific)
+- Natural Language Processing (NPL)
 
 ### * Contact Me ✩‧₊˚
 
