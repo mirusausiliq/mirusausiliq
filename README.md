@@ -46,7 +46,7 @@ We're looking forward for your participation to revitalize Formosan Languages wi
 
 ### * Linguistic Knowledges ✩‧₊˚
 
-- Formosan Languages (Specific)
+- Formosan Languages (Specific on Eastern Formosan & Paiwanic & Atayalic)
 - Natural Language Processing (NPL)
 
 ### * Contact Me ✩‧₊˚
