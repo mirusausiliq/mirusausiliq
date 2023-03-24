@@ -20,9 +20,9 @@ We're looking forward for your participation to revitalize Formosan Languages wi
 - 🇬🇧 English (B1~B2)(Learning)
 - 🇯🇵 Japanese (A1)
 - 🇧🇷 Portuguese (A1)
-- 🌾 Amis(Pangcah) (A1)(Learning)
+- 🌾 Amis(Pangcah) (A2)(Learning)
 - 🦅 Atayal (A2)(Certificated)
-- 🐗 Paiwan (A1)(Learning)
+- 🐗 Paiwan (A1)(Learning & Pause) 
 - 🔥 Sakizaya (A1)(Learning)
 
 ### * Programming Knowledges ✩‧₊˚
