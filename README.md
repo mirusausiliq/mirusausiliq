@@ -19,10 +19,10 @@ We're looking forward for your participation to revitalize Formosan Languages wi
 - 🌺 Hakka (Native)
 - 🇬🇧 English (B1~B2)(Learning)
 - 🇯🇵 Japanese (A1)
-- 🇧🇷 Portuguese (A1)
+- 🇧🇷 Portuguese (A1)(Learning)
 - 🌾 Amis(Pangcah) (A2)(Learning)
 - 🦅 Atayal (A2)(Certificated)
-- 🐗 Paiwan (A1)(Learning & Pause) 
+- 🐗 Paiwan (A1)(Pause) 
 - 🔥 Sakizaya (A1)(Learning)
 
 ### * Programming Knowledges ✩‧₊˚
@@ -46,7 +46,7 @@ We're looking forward for your participation to revitalize Formosan Languages wi
 
 ### * Linguistic Knowledges ✩‧₊˚
 
-- Formosan Languages (Specific on Eastern Formosan & Paiwanic & Atayalic)
+- Formosan Languages (Specific on Eastern Formosan & Atayalic)
 - Natural Language Processing (NPL)
 
 ### * Contact Me ✩‧₊˚
