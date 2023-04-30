@@ -20,6 +20,7 @@ We're looking forward for your participation to revitalize Formosan Languages wi
 - 🇬🇧 English (B1~B2)(Learning)
 - 🇯🇵 Japanese (A1)
 - 🇧🇷 Portuguese (A1)(Learning)
+- 🇪🇬 Arabic (A1~A2)(Learning)(MSA & Egyptian Arabic)
 - 🌾 Amis(Pangcah) (A2)(Learning)
 - 🦅 Atayal (A2)(Certificated)
 - 🐗 Paiwan (A1)(Pause) 
