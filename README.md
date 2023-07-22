@@ -24,6 +24,8 @@ We're looking forward for your participation to revitalize Formosan Languages wi
 - 🇬🇧 English (B2)(Learning)
 - 🇯🇵 Japanese (A1)
 - 🇧🇷 Portuguese (A1)(Learning)
+- 🇷🇺 Russian (A1)(Learning)
+- 🇹🇷 Turkish (A1)
 - 🇪🇬 Arabic (A1~A2)(Learning)(MSA & Egyptian Arabic)
 
 ### * Programming Knowledges ✩‧₊˚
