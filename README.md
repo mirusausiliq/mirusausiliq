@@ -6,7 +6,7 @@
 
 ### * About Me ✩‧₊˚
 
-Lokah su' ga! Ti Mirusa a ku ngadan. I'm a undergraduate currently studying in linguistics(NPL) and having strong interests in CSIE field. <br>
+Lokah su' ga! Ti Mirusa a ku ngadan. I'm a undergraduate currently studying in linguistics(NPL & Corpus & Data Science) and having strong interests in CSIE field. <br>
 I like to study, travel, create, and discover new things... whatever... <br>
 Also, I have a small organization called "Entendemos" aiming to revitalize the endangered cultures and languages, especialy including various Formosan Languages. <br>
 Recently, I'm working on the project which is trying to collect the learning resources of Formosan Languages, then reproduce them via some new technologies, finally translate in foreign languages, which maybe help those who don't know Chinese learning our beautiful Formosans. <br>
