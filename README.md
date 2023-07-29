@@ -6,15 +6,15 @@
 
 ### * About Me ✩‧₊˚
 
-Lokah su' ga! Ti Mirusa a ku ngadan. I'm a undergraduate currently studying in linguistics(NPL & Corpus & Data Science) and having strong interests in CSIE field. <br>
+Lokah su' ga! Ci Mirusa a ko ngangan no mako. I'm an undergraduate currently studying linguistics(NPL & Corpus & Data Science) and have strong interests in the CSIE field. <br>
 I like to study, travel, create, and discover new things... whatever... <br>
-Also, I have a small organization called "Entendemos" aiming to revitalize the endangered cultures and languages, especialy including various Formosan Languages. <br>
-Recently, I'm working on the project which is trying to collect the learning resources of Formosan Languages, then reproduce them via some new technologies, finally translate in foreign languages, which maybe help those who don't know Chinese learning our beautiful Formosans. <br>
-We're looking forward for your participation to revitalize Formosan Languages with us! <br>
+Also, I have a small organization called "Entendemos" aiming to revitalize endangered cultures and languages, especially various Formosan Languages. <br>
+Recently, I'm working on a project which is trying to collect the learning resources of Formosan Languages, then reproduce them via some new technologies, and finally translate the documents into foreign languages, which maybe help those who don't know Chinese learn our beautiful Formosans. <br>
+We're looking forward to your participation to revitalize Formosan Languages with us! <br>
 
 ### * Languages ✩‧₊˚
 
-- 🇹🇼 Taiwanese Mandarin (Native)
+- 🇹🇼 Mandarin Chinese (Native)
 - 🍍 Taigi (Native)
 - 🌺 Hakka (Native)
 - 🌾 Amis(Pangcah) (B1)(Learning)
@@ -54,7 +54,7 @@ We're looking forward for your participation to revitalize Formosan Languages wi
 
 ### * Contact Me ✩‧₊˚
 
-If you have any question or suggestion, please contact me right away! <br>
+If you have any questions or suggestions, please contact me right away! <br>
 I'm willing to answer you as soon as possible. <br>
 Below are my contacts: <br>
 
