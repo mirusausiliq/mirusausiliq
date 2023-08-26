@@ -8,7 +8,7 @@
 
 Lokah su' ga! Ci Mirusa a ko ngangan no mako. I'm an undergraduate currently studying linguistics(NPL & Corpus & Data Science) and have strong interests in the CSIE field. <br>
 I like to study, travel, create, and discover new things... whatever... <br>
-Also, I have a small organization called "Entendemos" aiming to revitalize endangered cultures and languages, especially various Formosan Languages. <br>
+Also, I have a small organization called "Siliqx" aiming to revitalize endangered cultures and languages, especially various Formosan Languages. <br>
 Recently, I'm working on a project which is trying to collect the learning resources of Formosan Languages, then reproduce them via some new technologies, and finally translate the documents into foreign languages, which maybe help those who don't know Chinese learn our beautiful Formosans. <br>
 We're looking forward to your participation to revitalize Formosan Languages with us! <br>
 
