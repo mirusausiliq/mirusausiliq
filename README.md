@@ -35,7 +35,13 @@ We're looking forward to your participation to revitalize Formosan Languages wit
 - Swift (Learning)
 - HTML/CSS (Learning)
 - JS/TS (Learning)
-- Node.js, Vue.js, Nuxt.js 3 (Web Framework)
+- Node.js
+- Vue.js
+- React.js
+- Chakra UI
+- nuxt.js
+- next.js
+- Svelte
 - Python
 - R
 - Siliq (Under Developing)
@@ -59,11 +65,11 @@ I'm willing to answer you as soon as possible. <br>
 Below are my contacts: <br>
 
 - **Gmail**: mirusausiliq@gmail.com
-- **Discord**: mirusausiliq#6635
+- **Discord**: mirusausiliq
 - **Github**: [mirusausiliq](https://github.com/mirusausiliq/)
 - **Twitter**: [@mirusausiliq](https://twitter.com/mirusausiliq)
 - **Personal Blog**: [https://mirusausiliq.com/](https://mirusausiliq.com/)
-- **Entendemos Blog**: [https://entendemos.github.io/](https://entendemos.github.io)
+- **Siliqx Blog**: [https://entendemos.github.io/](https://siliqx.github.io)
 
 ### * Plans of 2023 ✩‧₊˚
 
