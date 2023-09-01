@@ -15,18 +15,18 @@ We're looking forward to your participation to revitalize Formosan Languages wit
 ### * Languages ✩‧₊˚
 
 - 🇹🇼 Mandarin Chinese (Native)
-- 🍍 Taigi (Native)
+- 🍍 Taiwanese Hokkien (Native)
 - 🌺 Hakka (Native)
-- 🌾 Amis(Pangcah) (B1)(Learning)
-- 🦅 Atayal (A2)(Certificated)
-- 🐗 Paiwan (A1)
-- 🔥 Sakizaya (A1)
 - 🇬🇧 English (B2)(Learning)
 - 🇯🇵 Japanese (A1)
 - 🇧🇷 Portuguese (A1)(Learning)
 - 🇷🇺 Russian (A1)(Learning)
 - 🇹🇷 Turkish (A1)
-- 🇪🇬 Arabic (A1~A2)(Learning)(MSA & Egyptian Arabic)
+- 🇪🇬 Arabic (A1)(MSA & Egyptian Arabic)
+- 🌾 Amis(Pangcah) (B1)(Learning)
+- 🦅 Atayal (A2)(Certificated)
+- 🐗 Paiwan (A1)
+- 🔥 Sakizaya (A1)
 
 ### * Programming Knowledges ✩‧₊˚
 
