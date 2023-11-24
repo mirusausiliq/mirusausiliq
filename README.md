@@ -15,18 +15,21 @@ We're looking forward to your participation to revitalize Formosan Languages wit
 ### * Languages ✩‧₊˚
 
 - 🇹🇼 Mandarin Chinese (Native)
-- 🍍 Taiwanese Hokkien (Native)
+- 🍍 Taiwanese Hokkien (Taigi) (Native)
 - 🌺 Hakka (Native)
 - 🇬🇧 English (B2)(Learning)
 - 🇯🇵 Japanese (A1)
 - 🇧🇷 Portuguese (A1)(Learning)
-- 🇷🇺 Russian (A1)(Learning)
+- 🇷🇺 Russian (A1)
 - 🇹🇷 Turkish (A1)
 - 🇪🇬 Arabic (A1)(MSA & Egyptian Arabic)
 - 🌾 Amis(Pangcah) (B1)(Learning)
 - 🦅 Atayal (A2)(Certificated)
+- 🍌 Kavalan (A1)
 - 🐗 Paiwan (A1)
 - 🔥 Sakizaya (A1)
+- 🌲 Tsou(Cou) (A2)(Learning)
+- ⛰️ Truku (A1)
 
 ### * Programming Knowledges ✩‧₊˚
 
