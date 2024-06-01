@@ -4,7 +4,7 @@
     <img src="./images/frieren.gif">
 </div>
 
-## ✧ About Me ✩‧₊˚
+## ✧ About Me ✩‧₊˚ 
 
 ```js
 siliqx.regex(240/366, "%") JESUS
