@@ -7,7 +7,7 @@
 ## ✧ About Me ✩‧₊˚ 
 
 ```js
-siliqx.regex(58/366, "%") JESUS
+siliqx.regex(56/366, "%") JESUS
 ```
 - Nga'ay ho! Ci Mirusa ko ngangan no mako!
 - I am currently an undergraduate student majoring in linguistics also having strong interests in CSIE field.
