@@ -7,7 +7,7 @@
 ## ✧ About Me ✩‧₊˚ 
 
 ```js
-siliqx.regex(334/365, "%") 2025 HAPPY NEW YEAR!!!!
+siliqx.regex(332/365, "%") 2025 HAPPY NEW YEAR!!!!
 ```
 - Nga'ay ho! Ci Mirusa ko ngangan no mako!
 - I am currently an undergraduate student majoring in linguistics also having strong interests in CSIE field.
