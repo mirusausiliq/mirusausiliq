@@ -7,7 +7,7 @@
 ## ✧ About Me ✩‧₊˚ 
 
 ```js
-siliqx.regex(180/365, "%") 2025 HAPPY VALENTINE'S DAY!!!!
+siliqx.regex(153/365, "%") 2025 HAPPY INDIGENOUS' DAY!!!!
 ```
 - Nga'ay ho! Ci Mirusa ko ngangan no mako!
 - I am currently an undergraduate student majoring in linguistics also having strong interests in CSIE field.
